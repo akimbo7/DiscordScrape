@@ -1,10 +1,14 @@
 import Scrape
 from colorama import *; init()
 
-client = Scrape.Scrape(token = 'OTQ0MjEwNzk5MDA4ODA4OTgx.Yg-S4Q.2iDO1FLFoDojRQEUAlOIb5tpL9M')
+token = 'token'
+guildID = '111111111111111111
+channelID = '222222222222222222'
+
+client = Scrape.Scrape(token = token)
 print(f'[{Fore.YELLOW}%{Fore.RESET}] Fetching members...')
 
-client.fetchMembers('417762285172555786', '762830936911773717')
+client.fetchMembers(guildID, channelID)
 print(f'[{Fore.YELLOW}+{Fore.RESET}] Members fetched')
 
 ids = client.getIDs()
