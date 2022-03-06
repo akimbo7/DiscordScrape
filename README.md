@@ -1,5 +1,9 @@
 # Discord Scraper
 
+[![MIT License](https://img.shields.io/github/last-commit/akimbo7/DiscordScrape?color=%23136F63&style=flat-square)](https://github.com/akimbo7/DiscordScrape)
+[![MIT License](https://img.shields.io/github/repo-size/akimbo7/DiscordScrape?color=%23E0CA3C&style=flat-square)](https://github.com/akimbo7/DiscordScrape)
+[![MIT License](https://img.shields.io/github/v/release/akimbo7/DiscordScrape?color=%23F34213&style=flat-square)](https://github.com/akimbo7/DiscordScrape/releases)
+
 A basic PFP and username scraper for discord.
 
 ```
