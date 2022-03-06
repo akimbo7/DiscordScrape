@@ -12,7 +12,7 @@ This script was only made because some kid on Telegram was trying to sell a scra
 
 This will not be maintained further as I have no use for this.
 
-##Requirements
+## Requirements
 - requests
 - discum
 - colorama
