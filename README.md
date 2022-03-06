@@ -11,3 +11,8 @@ of using discord's gateway - It was pointless me spending hours learning for a b
 This script was only made because some kid on Telegram was trying to sell a scraper for $50 lol, so here.
 
 This will not be maintained further as I have no use for this.
+
+##Requirements
+- requests
+- discum
+- colorama
