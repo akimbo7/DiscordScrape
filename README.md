@@ -14,6 +14,8 @@ me spending hours learning for a basic script I'm never going to use.
 
 This script was only made because some kid on Telegram was trying to sell a scraper for $50 lol, so here.
 
+This is essentially the bare bones - you could thread this with multiple tokens to make this 100x faster.
+
 This will not be maintained further as I have no use for this.
 
 Check out [DisCum](https://github.com/Merubokkusu/Discord-S.C.U.M/)!
