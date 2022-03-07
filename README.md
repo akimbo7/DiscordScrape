@@ -6,7 +6,7 @@
 
 A basic PFP and username scraper for discord.
 
-![Untitled](https://user-images.githubusercontent.com/100610867/156948572-ad348bc8-d647-453a-a633-feef0ee00148.gif)
+![Untitled1](https://user-images.githubusercontent.com/100610867/156948722-3c7aecf0-9757-4b92-8354-d3b405ec862d.gif)
 
 ```
 Fetching guild members is only possible via discord's gateway. I was going to do this myself 
